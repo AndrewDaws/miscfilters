@@ -570,3 +570,6 @@ medina-gazette.com,chroniclet.com##.auth_provider_widget
 ! Music Business Worldwide
 musicbusinessworldwide.com##.mb-article__body:style(display:inherit!important)
 
+! Hawaii Tribune-Herald
+hawaiitribune-herald.com##.single-login-box, #single-excerpt
+hawaiitribune-herald.com##.paywall:style(display:inherit!important)
