@@ -573,3 +573,7 @@ musicbusinessworldwide.com##.mb-article__body:style(display:inherit!important)
 ! Hawaii Tribune-Herald
 hawaiitribune-herald.com##.single-login-box, #single-excerpt
 hawaiitribune-herald.com##.paywall:style(display:inherit!important)
+
+! Stuff (NZ)
+@@||piano.io/api/tinypass.min.js$script,domain=thepress.co.nz|thepost.co.nz|waikatotimes.co.nz
+thepress.co.nz,thepost.co.nz,waikatotimes.co.nz##[data-testid="ad-slot"]
