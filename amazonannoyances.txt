@@ -293,6 +293,7 @@ amazon.*##.olpMp3Slot
 amazon.*###desktop-editorial
 amazon.*##.one-click-survey-card.a-cardui:upward(1)
 amazon.*###widget-rightUpsellSlot
+amazon.*###sc-new-upsell
 
 blog.aboutamazon.com##.PromoImage
 
